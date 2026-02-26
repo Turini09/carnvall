@@ -1,0 +1,20 @@
+body {background-color: rgb(231, 0, 0);
+}
+h1 {color: rgb(15, 14, 14); 
+    text-align: center;
+    font-size: 300%;
+    border-style: double; 
+    border-color: rgb(0, 0, 255);
+    margin-left: 10%;
+}
+h2 {color: white; 
+    text-align: center;
+}
+h3 {color: rgb(208, 231, 0); 
+    text-align: center;
+}
+#ima1 {margin-left: 39%;
+       border-width: 10px;
+       border-style: double; 
+       border-color: rgb(138, 16, 175);
+}
